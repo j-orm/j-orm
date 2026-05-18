@@ -176,7 +176,13 @@ We have prepared a detailed step-by-step guide in the `docs/` folder to help you
 
 ---
 
-## 🤝 How to Contribute
+
+## 🤝 Join the Community
+
+We are always looking for contributors, feedback, and ideas! 
+- Found a bug? [Open an issue](https://github.com/j-orm/jorm/issues).
+- Want to contribute? Check out our [Development Guide](https://github.com/j-orm/jorm/blob/main/DEVELOPMENT.md).
+- Have a feature request? Start a [Discussion](https://github.com/j-orm/jorm/discussions).
 
 Being an open-source project, all help is welcome! If you found a bug, have an idea for a feature, or want to fix documentation:
 
