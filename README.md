@@ -8,11 +8,8 @@
 
   [![Maven Central](https://img.shields.io/maven-central/v/pt.jorm/jorm-spring-boot-starter?color=blue&label=Maven%20Central)](https://central.sonatype.com/namespace/pt.jorm)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![Java 21+](https://img.shields.io/badge/Java-21%2B-ED8B00?logo=java)](https://adoptium.net/)
   [![Status](https://img.shields.io/badge/status-BETA-orange.svg)]()
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Java 21](https://img.shields.io/badge/Java-21%2B-blue.svg)]()
-
   [Documentation](https://github.com/j-orm/jorm/tree/main/docs) • [Getting Started](https://github.com/j-orm/jorm#quick-start) • [Spring Boot Guide](https://github.com/j-orm/jorm/blob/main/docs/04-integracao-spring-boot.md)
 </div>
 
