@@ -2,7 +2,17 @@
   
   <img src="https://raw.githubusercontent.com/j-orm/jorm/main/docs/assets/jorm-logo.png" alt="Jorm Logo" width="200" />
   
-  # Welcome to Jorm! 🚀
+  # Welcome to ! 🚀
+`
+     ██╗ ██████╗ ██████╗ ███╗   ███╗
+     ██║██╔═══██╗██╔══██╗████╗ ████║
+     ██║██║   ██║██████╔╝██╔████╔██║
+██   ██║██║   ██║██╔══██╗██║╚██╔╝██║
+╚█████╔╝╚██████╔╝██║  ██║██║ ╚═╝ ██║
+ ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
+                                    
+  
+`
 
   **The Modern, Schema-First, and Reflection-Free ORM for the Java Ecosystem**
 
